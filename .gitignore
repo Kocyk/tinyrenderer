@@ -1,2 +1,7 @@
 .vs/
-TinyRenderer/Debug/vc141.idb
+TinyRenderer/Debug/
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
