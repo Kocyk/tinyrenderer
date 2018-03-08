@@ -1,5 +1,6 @@
 .vs/
-TinyRenderer/Debug/
+TinyRenderer/[Dd]ebug/
+TinyRenderer/[Rr]elease/
 [Dd]ebug/
 [Rr]elease/
 x64/
